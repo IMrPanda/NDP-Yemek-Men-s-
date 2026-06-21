@@ -1,0 +1,16 @@
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\bin\Debug\net9.0-windows\YemekMenusuÖdev.exe
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\bin\Debug\net9.0-windows\YemekMenusuÖdev.deps.json
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\bin\Debug\net9.0-windows\YemekMenusuÖdev.runtimeconfig.json
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\bin\Debug\net9.0-windows\YemekMenusuÖdev.dll
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\bin\Debug\net9.0-windows\YemekMenusuÖdev.pdb
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\YemekMenusuÖdev.Form1.resources
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\YemekMenusuÖdev.csproj.GenerateResource.cache
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\YemekMenusuÖdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\YemekMenusuÖdev.AssemblyInfoInputs.cache
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\YemekMenusuÖdev.AssemblyInfo.cs
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\YemekMenusuÖdev.csproj.CoreCompileInputs.cache
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\YemekMenusuÖdev.dll
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\refint\YemekMenusuÖdev.dll
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\YemekMenusuÖdev.pdb
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\YemekMenusuÖdev.genruntimeconfig.cache
+C:\Users\ulusi\Desktop\ndp\YemekMenusuÖdev\obj\Debug\net9.0-windows\ref\YemekMenusuÖdev.dll
